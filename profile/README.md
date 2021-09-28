@@ -1,8 +1,8 @@
 # Google Developer Student Clubs at Virginia Tech
-<p>
-    <img width="200" src="./../GDSC.png">
-    <img width="200" src="./../VT.svg">
-</p>
+<!-- <p>
+    <img width="200" src="https://photos.app.goo.gl/G3V7DtZK4gzoK8ndA">
+    <img width="200" src="https://ibb.co/PGDN9V9">
+</p> -->
 
 </hr>
 
