@@ -57,7 +57,7 @@ Google Developer Student Clubs (GDSC) are university-based community groups, bui
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="GDSC's Youtube Profile">
   </a>
     
-  <a href="https://www.vectorlogo.zone/logos/google/google-tile.svg">
+  <a href="https://sites.google.com/vt.edu/dscvt">
     <img src="https://i.ibb.co/wB2Whr1/GDSC.png" alt="GDSC's GDSC Profile" width="100">
   </a>
 </p>
